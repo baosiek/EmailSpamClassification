@@ -1,3 +1,5 @@
 data/
 model/elmo_model.h5
 model/elmo_model.tf
+model/
+
