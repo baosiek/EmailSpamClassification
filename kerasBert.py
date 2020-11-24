@@ -6,7 +6,7 @@ import re
 import numpy as np
 from bert.tokenization import FullTokenizer
 from tqdm import tqdm
-from tensorflow.keras import backend as K
+from keras import backend as K
 
 # Initialize session
 sess = tf.Session()
